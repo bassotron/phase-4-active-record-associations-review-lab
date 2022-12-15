@@ -21,3 +21,4 @@ RSpec.describe Passenger, type: :model do
     expect(ride.passenger).to eq(passenger)
   end
 end
+
